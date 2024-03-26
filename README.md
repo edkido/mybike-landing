@@ -1,4 +1,4 @@
-# Kickstarter landing page by Eduard Herasym (GitHub: edkido)
+# MyBike landing page by Eduard Herasym (GitHub: edkido)
 DESCRIPTION
 
   This landing page serves as a gateway to explore my professional journey and skills.
