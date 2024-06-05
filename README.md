@@ -1,4 +1,4 @@
-Spoke & Gear landing page by Eduard Herasym (GitHub: edkido)
+# Spoke & Gear landing page by Eduard Herasym (GitHub: edkido)
 
 DESCRIPTION
 
